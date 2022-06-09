@@ -1,3 +1,5 @@
+![PyTorch](https://img.shields.io/badge/PyTorch-%3D1.9.1-informational)
+![Python](https://img.shields.io/badge/Python-%3E%3D3.8-blue)
 # Meta-Pseudo-Labels
 practise
 
