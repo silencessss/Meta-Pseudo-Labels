@@ -1,7 +1,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%3D1.9.1-informational)
 ![Python](https://img.shields.io/badge/Python-%3E%3D3.8-blue)
 # Meta-Pseudo-Labels
-A semi-supervised learning method. Paper online link is here: https://arxiv.org/abs/2003.10580
+A semi-supervised learning method. Paper online link is here: https://ieeexplore.ieee.org/document/9578487
 
 ## USAGE
 ```basch
@@ -21,5 +21,6 @@ python main.py --seed 2 --name AcneECK --expand-labels --dataset AcneECK --num-c
 ---
 
 ## Ref.
+- H. Pham, Z. Dai, Q. Xie and Q. V. Le, "Meta Pseudo Labels," 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 11552-11563, doi: 10.1109/CVPR46437.2021.01139.
 - https://github.com/kekmodel/MPL-pytorch
 - https://github.com/google-research/google-research/tree/master/meta_pseudo_labels
